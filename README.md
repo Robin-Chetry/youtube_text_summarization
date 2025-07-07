@@ -23,7 +23,7 @@ This Streamlit app uses **Langchain**, **Groq LLMs**, and **YouTubeTranscriptAPI
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/langchain-summarizer.git
+   https://github.com/Robin-Chetry/youtube_text_summarization.git
    cd langchain-summarizer
    ```
 
