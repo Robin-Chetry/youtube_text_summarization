@@ -32,8 +32,8 @@ def get_transcript_from_youtube(url):
 
 # -------------------- Streamlit UI -------------------- #
 
-st.set_page_config(page_title="Langchain - Summarize URL Content", page_icon="🦜")
-st.title("Langchain: Summarize Content from YouTube or Website")
+st.set_page_config(page_title="Summarize URL Content", page_icon="🦜")
+st.title("Summarize Content from YouTube or Website(Made by Robin)")
 
 with st.sidebar:
     groq_api_key = st.text_input("Groq API Key", value="", type="password")
